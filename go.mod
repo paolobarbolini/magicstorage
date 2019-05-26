@@ -1,4 +1,4 @@
-module github.com/securityclippy/magicstorage
+module github.com/paolobarbolini/magicstorage
 
 require (
 	github.com/aws/aws-sdk-go v1.16.14
